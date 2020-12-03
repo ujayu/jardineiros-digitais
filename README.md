@@ -74,7 +74,9 @@ Um jardim digital é um modelo orgânico de produção de conhecimento e/ou cont
 
 ## Diretório de jardins lusófonos
 
-(Em construção)
+| Jardineiro & Link | Ferramentas | Temas |                                         
+| -------------------- | ------------------ | ----------------- |   
+| (Em construção) | | |
 
 ## Diretório de jardins (original)
 
