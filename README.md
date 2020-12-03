@@ -1,81 +1,84 @@
-# Digital Gardening
+# Jardinagem Digital
 
-A collective of gardeners publicly tending their digital notes on the interwebs
+Um espaço para jardineiros digitais lusófonos compartilharem recursos, ideias, e seus jardins digitais públicos, forkeado da iniciativa original anglófona: https://github.com/MaggieAppleton/digital-gardeners 
 
-![An illustration of a plant with an pencil edit icon](https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,w_850/v1590401937/maggieappleton.com/notes/garden-history/garden-wide.png)
+## O que são jardins digitais?
 
-<br />
+Um jardim digital é um modelo orgânico de produção de conhecimento e/ou conteúdo, disponibilizado publicamente ou mantido privado, pautado em produzir elementos pequenos, "atômicos", e então unificá-los por meio de ferramentas digitais que construam redes, efetivamente gerando elementos maiores a partir dos prévios. Diversos modelos de pensamento em rede já existentes podem servir de base a um jardim digital, isoladamente ou em conjunção: wikis, Second Brains e Zettelkästen são alguns dos mais conhecidos.  
 
-## Gardening Tools
+Ao nível privado, construir um jardim digital é tomar vantagem da hipertextualidade (de forma maior que a usual em seu uso cotidiano na internet contemporânea), facilitando a produção de conteúdo ao criar conexões entre ideias que nem sempre ficam aparentes em modelos tradicionais de produção de conteúdo.
 
-#### Building a Public Garden
+Ao nível público, o modelo do jardim põe-se como contraponto ao _feed_. A internet retórica e confrontativa tem seu lugar e seus benefícios - mas falta o estímulo a uma internet produtora e colaborativa, preocupada em construir, não em vencer. É em prol dessa alternativa que construimos nossos jardins.
 
-- [TiddlyWiki](https://tiddlywiki.com/) - A no-code personal wiki system
-  - [Stroll](https://giffmex.org/stroll/stroll.html) a TiddlyWiki plugin with bi-directional links and other Roam-like features
-  - [TiddlyMap](http://tiddlymap.org/) - a mind-map plugin that shows visualizations for TiddlyWiki.
+## Ferramentas de jardinagem
+
+#### Construindo um jardim público
+
+- [TiddlyWiki](https://tiddlywiki.com/) - Um sistema wiki pessoal, que não exige código.
+  - [Stroll](https://giffmex.org/stroll/stroll.html) - Um plugin para TiddlyWiki com links bi-direcionais e outras ferramentas similares às do Roam.
+  - [TiddlyMap](http://tiddlymap.org/) - Um plugin de mapa mental que mostra visualizações para a TiddlyWiki.
 - [Gitbook](https://www.gitbook.com/)
-- [React-Notion](https://github.com/splitbee/react-notion/) - allows you to publish a React-based website sources from your Notion notes - "Notion as a CMS"
-- [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Roam-like bidirectional links in Gatsby.js
+- [React-Notion](https://github.com/splitbee/react-notion/) - Permite publicar um site baseado em React utilizando como fonte suas notas do Notion - "Notion como sistema de gerenciamento de conteúdo".
+- [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Links bi-direcionais, ao estilo do Roam, no Gatsby.js.
 - [Gatsby Andy Theme](https://github.com/aravindballa/gatsby-theme-andy)
-- [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - A set of tools to build a digital garden with Gatsby.js. Pull data from Roam Research or markdown.
-- [Simply Jekyll](https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll) - A Jekyll theme with bidirectional links, sidenotes, and transclusion
-- [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - A simple, clean jekyll template with bi-directional links
-- [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A minimal template with backlinks, built in [Eleventy](https://11ty.dev)
-- [Foam](https://foambubble.github.io/foam/) - Roam-like personal note management and publishing system built inside VSCode
-- [Dendron](https://www.dendron.so/) - A structured note taking tool that merges the freedom of Roam-like linking with the order hierarchical organization  
+- [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - Conjunto de ferramentas para construir um jardim digital com Gatsby.js. Puxe (_pull_) dados do Roam Research ou de textos em Markdown.
+- [Simply Jekyll](https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll) - Um tema para Jekyll com links-birecionais, anotações e transclusão.
+- [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Um template simples e limpo para Jekyll com links bi-direcionais.
+- [Eleventy Garden](https://github.com/b3u/eleventy-garden) - Um template minimalista com backlinks, construído em [Eleventy](https://11ty.dev)
+- [Foam](https://foambubble.github.io/foam/) - Sistema de gerenciamento e publicação de notas ao estilo do Roam, construído dentro do VSCode.
+- [Dendron](https://www.dendron.so/) - Uma ferramenta para escrever notas que mescla a liberdade de linkagem ao estilo do Roam com a ordem da organização hierárquica. 
 
-#### Building a Private Garden
+#### Construindo um jardim privado
 
-- [Roam](https://roamresearch.com/) - A personal notes system for interconnected thought
-- [Org Roam](https://www.orgroam.com/) - non-hierarchical note-taking with org-mode in emacs
-- [Obsidian](https://obsidian.md/) - a Roam-like knowledge base that works on top of a local folder of plain text Markdown files.
-- [TheBrain](https://www.thebrain.com/) - A tool for taking interconnected notes with an interactive graph.
+- [Roam](https://roamresearch.com/) - Um sistema de notas pessoais para pensamento interconectado.
+- [Org Roam](https://www.orgroam.com/) - Escrita de notas não-hierárquica usando org-mode no emacs.
+- [Obsidian](https://obsidian.md/) - Uma base de conhecimento ao estilo do Roam, operando a partir de textos simples (_plain text_) formatados em Markdown e armazenados em uma pasta local do seu sistema.
+- [TheBrain](https://www.thebrain.com/) - Uma ferramenta para escrever notas interconectadas com um gráfico interativo.
 
-#### Extra Gardening Tools
+#### Alguns extras
 
-- [Webmentions](https://indieweb.org/Webmention) - About the Webmentions system
-  - [Webmention.io](https://webmention.io/) - A service to add Webmentions to your Garden
-- [Hypothesis](https://web.hypothes.is/) - A layer of social meta commentary
+- [Webmentions](https://indieweb.org/Webmention) - Sobre o serviço de Webmentions.
+  - [Webmention.io](https://webmention.io/) - Um serviço para adicionar Webmentions ao seu jardim.
+- [Hypothesis](https://web.hypothes.is/) - Uma camada de metacomentário social.
 
-<br />
+## Tutoriais
 
-## How-To's and Tutorials
+- [How to build a digital garden with TiddlyWiki](https://nesslabs.com/digital-garden-tiddlywiki) por Anne-Laure Le Cunff
+- [Install org-roam: an introductory technical guide with Doom Emacs](https://www.ianjones.us/2020-05-05-doom-emacs/) por Ian Jones
+- [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) por Tom Critchlow
+- [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) por Shawn Wang
 
-- [How to build a digital garden with TiddlyWiki](https://nesslabs.com/digital-garden-tiddlywiki) by Anne-Laure Le Cunff
-- [Install org-roam: an introductory technical guide with Doom Emacs](https://www.ianjones.us/2020-05-05-doom-emacs/) by Ian Jones
-- [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow
-- [Webmentions - Joining the IndieWeb with Svelte](https://www.swyx.io/writing/clientside-webmentions) by Shawn Wang
 
-<br />
+## Teoria, filosofia, e horas apreciando jardins
 
-## Theory, Philosophy, and Navel-Gazing
-
-- **[The Garden and the Stream: A Techno pastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)** by Mike Caulfield
-- [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) by Tom Critchlow
-- [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy
-- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
-- [You and your mind garden](https://nesslabs.com/mind-garden) by Anne-Laure Le Cunff
-- [Digital Garden Terms of Service](https://www.swyx.io/writing/digital-garden-tos/) by Shawn Wang
-- [What is a digital garden?](https://www.christopherbiscardi.com/garden) by Chris Biscardi
+- **[The Garden and the Stream: A Techno pastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)** por Mike Caulfield
+- [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) por Tom Critchlow
+- [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) por Amy Hoy
+- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) por Joel Hooks
+- [You and your mind garden](https://nesslabs.com/mind-garden) por Anne-Laure Le Cunff
+- [Digital Garden Terms of Service](https://www.swyx.io/writing/digital-garden-tos/) por Shawn Wang
+- [What is a digital garden?](https://www.christopherbiscardi.com/garden) por Chris Biscardi
 - [The Garden and the Stream: An IndieWeb Pop-up Session](https://indieweb.org/2020/Pop-ups/GardenAndStream)
-- [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/) by Will Stedden
-- [A Brief History & Ethos of the Digital Garden](http://maggieappleton.com/garden-history) by Maggie Appleton
+- [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/) por Will Stedden
+- [A Brief History & Ethos of the Digital Garden](http://maggieappleton.com/garden-history) por Maggie Appleton
 
 <br />
 
-## Common Groud: Zettelkasten, Knowledge Graphs, Wikis, and Related Concepts
+## Terreno compartilhado: Zettelkasten, Gráficos de Conhecimento, Wikis, e conceitos relacionados
 
 - [The Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar)
 - [Zettelkasten: knowledge and info management](https://zettelkasten.de/)
-- [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1) by Abram Demski
-- [A web of wikis](https://doubleloop.net/2020/05/16/a-web-of-wikis/) by Neil Mather
-- [Bliki tooling](https://doubleloop.net/2020/05/02/bliki-tooling/) by Neil Mather
-- [Hack Your Life With A Private Wiki Notebook, Getting Things Done, And Other Systems](http://webseitz.fluxent.com/wiki/HackYourLifeWithAPrivateWikiNotebookGettingThingsDoneAndOtherSystems) by Bill Seitz
-- [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by Vannevar Bush (The Atlantic, 1945)
+- [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1) por Abram Demski
+- [A web of wikis](https://doubleloop.net/2020/05/16/a-web-of-wikis/) por Neil Mather
+- [Bliki tooling](https://doubleloop.net/2020/05/02/bliki-tooling/) por Neil Mather
+- [Hack Your Life With A Private Wiki Notebook, Getting Things Done, And Other Systems](http://webseitz.fluxent.com/wiki/HackYourLifeWithAPrivateWikiNotebookGettingThingsDoneAndOtherSystems) por Bill Seitz
+- [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) por Vannevar Bush (The Atlantic, 1945)
 
-<br />
+## Diretório de jardins lusófonos
 
-## Digital Garden Directory
+(Em construção)
+
+## Diretório de jardins (original)
 
 | Garderner & Link | 🛠 Build Tools  | 🌿Note Themes |
 | -------------------- | ------------------ | ----------------- |
