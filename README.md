@@ -6,7 +6,7 @@ Um espaço para jardineiros digitais lusófonos compartilharem recursos, ideias,
 
 ## O que são jardins digitais?
 
-Um jardim digital é um modelo orgânico de produção de conhecimento e/ou conteúdo, disponibilizado publicamente ou mantido privado, pautado em produzir elementos pequenos, "atômicos", e então unificá-los por meio de ferramentas digitais que construam redes hipertextuais, efetivamente gerando elementos maiores a partir dos prévios. Diversos modelos de pensamento em rede já existentes podem servir de base a um jardim digital, isoladamente ou em conjunção: wikis, Second Brains e Zettelkästen são alguns dos mais conhecidos.  
+Um jardim digital é um modelo orgânico de produção/compartilhamento de conhecimento e conteúdo, baseado em criar fragmentos e ligá-los por meio de conexões temáticas, lógicas, semânticas, etc., em oposição a modelos cronológicos e unidirecionais, como _feeds_. Diversos modelos de pensamento em rede já existentes podem servir de base a um jardim digital, isoladamente ou em conjunção: wikis, Second Brains e Zettelkästen são alguns dos mais conhecidos.  
 
 ## Ferramentas de jardinagem
 
