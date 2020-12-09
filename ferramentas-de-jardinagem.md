@@ -10,7 +10,7 @@
 - [Gatsby Brain Theme](https://github.com/aengusmcmillin/gatsby-theme-brain) - Links bi-direcionais, ao estilo do Roam, no Gatsby.js.
 - [Gatsby Andy Theme](https://github.com/aravindballa/gatsby-theme-andy)
 - [Gatsby Theme Garden](https://github.com/mathieudutour/gatsby-digital-garden/) - Conjunto de ferramentas para construir um jardim digital com Gatsby.js. Puxe (_pull_) dados do Roam Research ou de textos em Markdown.
-- [Simply Jekyll](https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll) - Um tema para Jekyll com links-birecionais, anotações e transclusão.
+~~- [~~Simply Jekyll~~](https://simply-jekyll.netlify.app/posts/introduction-to-simply-jekyll) - Um tema para Jekyll com links-birecionais, anotações e transclusão.~~ (Não mais ativamente mantido)
 - [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Um template simples e limpo para Jekyll com links bi-direcionais.
 - [Eleventy Garden](https://github.com/b3u/eleventy-garden) - Um template minimalista com backlinks, construído em [Eleventy](https://11ty.dev)
 - [Foam](https://foambubble.github.io/foam/) - Sistema de gerenciamento e publicação de notas ao estilo do Roam, construído dentro do VSCode.
