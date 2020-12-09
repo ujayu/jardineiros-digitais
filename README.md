@@ -1,4 +1,4 @@
-# Jardinagem Digital
+# Jardinagem digital
 
 Um espaço para jardineiros digitais lusófonos compartilharem recursos, ideias, e seus jardins digitais públicos, forkeado da iniciativa original anglófona: https://github.com/MaggieAppleton/digital-gardeners 
 
